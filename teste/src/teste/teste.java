@@ -6,6 +6,7 @@ public class teste {
 		// int num1 = 3, num2 = , soma;}
 
 		soma = num1 + num2;
+		System.out.printIn(soma);
 
 	}
 
